@@ -1,5 +1,5 @@
 <?php
-$time_delay_pickup = 2;
+$time_delay_pickup = 2; 
 $time_delay_dropoff = 2;
 $probability_of_crossover = 1;
 $probability_of_mutation = .5;
